@@ -23,7 +23,7 @@
     "react-spring": "^8.0.27",
     "semver": "^7.2.1",
     "solidity-parser-antlr": "^0.4.11",
-    "styled-components": "^5.0.1",
+    "styled-components": "^5.3.5",
     "typescript": "^3.8.3",
     "url": "^0.11.0",
     "use-wallet": "^0.5.0"
