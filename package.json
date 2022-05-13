@@ -17,7 +17,7 @@
     "node-fetch": "^2.6.0",
     "react": "^16.13.1",
     "react-app-polyfill": "^1.0.6",
-    "react-app-rewired": "^2.1.5",
+    "react-app-rewired": "^2.2.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.1",
     "react-spring": "^8.0.27",
@@ -71,7 +71,7 @@
     "eslint-plugin-standard": "^4.0.1",
     "husky": "^4.2.5",
     "prettier": "^1.19.1",
-    "react-app-rewired": "^2.1.5",
+    "react-app-rewired": "^2.2.1",
     "react-dev-utils": "^10.2.1",
     "subscriptions-transport-ws": "^0.9.16"
   }
